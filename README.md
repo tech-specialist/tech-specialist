@@ -2,7 +2,7 @@
 
 <!--
 **tech-specialist/tech-specialist** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-![Blanchard](https://github.com/tech-specialist/tech-specialist/blob/main/Blanchard.png
+![Blanchard](https://github.com/tech-specialist/tech-specialist/assets/108318627/1c609f25-3086-4364-a5cc-ed8ac1dd4c2c)
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
